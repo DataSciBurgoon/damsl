@@ -1,0 +1,142 @@
+Remember that you need to run the SplitSMI runner.runner Scala script first
+That script takes a tab-delimited file with SMILES\tchemical names
+And here we go!
+/Users/burgoonl/anaconda/bin:/Users/burgoonl/anaconda/bin:/Users/burgoonl/.rbenv/bin:/Users/burgoonl/Documents/autodock:/usr/local/mysql/bin:/usr/local/lib/node_modules:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Users/burgoonl/Documents/scala-2.11.6/bin://Users/burgoonl/Documents/autodock_vina_1_1_2_mac/bin:/usr/texbin
+setting PYTHONHOME environment
+Unable to assign HAD type to atom N
+Unable to assign valence to atom ppar_chems_model1: :LIG1:N type = N
+Unable to assign HAD type to atom N
+Unable to assign valence to atom ppar_chems_model1: :LIG1:N type = N
+Unable to assign HAD type to atom N
+Unable to assign valence to atom ppar_chems_model1: :LIG1:N type = N
+Unable to assign MAP type to atom N
+Sorry, there are no Gasteiger parameters available for atom ppar_chems_model1: :LIG1:N
+Sorry, there are no Gasteiger parameters available for atom ppar_chems_model1: :LIG1:O
+Sorry, there are no Gasteiger parameters available for atom ppar_chems_model1: :LIG1:O
+Unable to assign MAP type to atom N
+Sorry, there are no Gasteiger parameters available for atom ppar_chems_model1: :LIG1:N
+Sorry, there are no Gasteiger parameters available for atom ppar_chems_model1: :LIG1:O
+Sorry, there are no Gasteiger parameters available for atom ppar_chems_model1: :LIG1:O
+Unable to assign MAP type to atom N
+Sorry, there are no Gasteiger parameters available for atom ppar_chems_model1: :LIG1:N
+Sorry, there are no Gasteiger parameters available for atom ppar_chems_model1: :LIG1:O
+Sorry, there are no Gasteiger parameters available for atom ppar_chems_model1: :LIG1:O
+Unable to assign XYZ type to atom N
+Unable to assign XYZ type to atom N
+Unable to assign XYZ type to atom N
+Unable to assign HYB type to atom N
+Unable to assign HYB type to atom N
+Unable to assign HYB type to atom N
+Unable to assign HYB type to atom N
+Unable to assign HYB type to atom N
+Unable to assign HYB type to atom N
+Unable to assign HYB type to atom N
+Unable to assign HYB type to atom N
+Unable to assign HYB type to atom N
+Unable to assign HYB type to atom N
+Unable to assign HYB type to atom N
+Unable to assign HYB type to atom N
+Unable to assign HYB type to atom N
+Unable to assign HYB type to atom N
+Unable to assign HYB type to atom N
+Unable to assign HYB type to atom N
+Unable to assign HYB type to atom N
+Unable to assign HYB type to atom N
+Unable to assign XYZ type to atom N
+Unable to assign XYZ type to atom N
+Unable to assign XYZ type to atom N
+Unable to assign HYB type to atom N
+Unable to assign HYB type to atom N
+Unable to assign HYB type to atom N
+Unable to assign HYB type to atom N
+Unable to assign HYB type to atom N
+Unable to assign HYB type to atom N
+Unable to assign HYB type to atom N
+Unable to assign HYB type to atom N
+Unable to assign HYB type to atom N
+Unable to assign HYB type to atom N
+Unable to assign HYB type to atom N
+Unable to assign HYB type to atom N
+Unable to assign HYB type to atom N
+Unable to assign HYB type to atom N
+Unable to assign HYB type to atom N
+Unable to assign HYB type to atom N
+Unable to assign HYB type to atom N
+Unable to assign HYB type to atom N
+Unable to assign XYZ type to atom N
+Unable to assign XYZ type to atom N
+Unable to assign XYZ type to atom N
+Unable to assign HYB type to atom N
+Unable to assign HYB type to atom N
+Unable to assign HYB type to atom N
+Unable to assign HYB type to atom N
+Unable to assign HYB type to atom N
+Unable to assign HYB type to atom N
+Unable to assign HYB type to atom N
+Unable to assign HYB type to atom N
+Unable to assign HYB type to atom N
+Unable to assign HYB type to atom N
+Unable to assign HYB type to atom N
+Unable to assign HYB type to atom N
+Unable to assign HYB type to atom N
+Unable to assign HYB type to atom N
+Unable to assign HYB type to atom N
+Unable to assign HYB type to atom N
+Unable to assign HYB type to atom N
+Unable to assign HYB type to atom N
+Processing ligand ppar-a-1I7G
+#################################################################
+# If you used AutoDock Vina in your work, please cite:          #
+#                                                               #
+# O. Trott, A. J. Olson,                                        #
+# AutoDock Vina: improving the speed and accuracy of docking    #
+# with a new scoring function, efficient optimization and       #
+# multithreading, Journal of Computational Chemistry 31 (2010)  #
+# 455-461                                                       #
+#                                                               #
+# DOI 10.1002/jcc.21334                                         #
+#                                                               #
+# Please see http://vina.scripps.edu for more information.      #
+#################################################################
+
+Detected 8 CPUs
+Reading input ... Processing ligand ppar_chems
+#################################################################
+# If you used AutoDock Vina in your work, please cite:          #
+#                                                               #
+# O. Trott, A. J. Olson,                                        #
+# AutoDock Vina: improving the speed and accuracy of docking    #
+# with a new scoring function, efficient optimization and       #
+# multithreading, Journal of Computational Chemistry 31 (2010)  #
+# 455-461                                                       #
+#                                                               #
+# DOI 10.1002/jcc.21334                                         #
+#                                                               #
+# Please see http://vina.scripps.edu for more information.      #
+#################################################################
+
+Detected 8 CPUs
+Reading input ... done.
+Setting up the scoring function ... done.
+Analyzing the binding site ... done.
+Using random seed: -1240110448
+Performing search ... 
+0%   10   20   30   40   50   60   70   80   90   100%
+|----|----|----|----|----|----|----|----|----|----|
+***************************************************
+done.
+Refining results ... done.
+
+mode |   affinity | dist from best mode
+     | (kcal/mol) | rmsd l.b.| rmsd u.b.
+-----+------------+----------+----------
+   1         -7.2      0.000      0.000
+   2         -6.8     10.671     11.960
+   3         -6.5      8.918     10.054
+   4         -6.5      1.137      4.039
+   5         -6.5     10.185     11.239
+   6         -6.4      9.830     10.878
+   7         -6.4      9.942     11.449
+   8         -6.4     10.475     12.026
+   9         -6.4      8.858     10.238
+Writing output ... done.

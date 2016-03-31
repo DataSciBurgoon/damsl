@@ -1,0 +1,11 @@
+receptor = ppar-a-1i7g.pdbqt
+
+center_x = 38
+center_y = 35
+center_z = 42
+
+size_x = 18
+size_y = 22
+size_z = 18
+
+exhaustiveness = 50

@@ -1,0 +1,7 @@
+==============================
+*** Open Babel Warning  in CheckForUnintendedBatch
+  This was a batch operation. For splitting, use non-empty base name for the output files
+9 molecules converted
+
+
+Parse error on line 2 in file "ppar-a-1I7G.pdbqt": Unknown or inappropriate tag
