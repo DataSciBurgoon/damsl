@@ -2,7 +2,7 @@ echo "Remember that you need to run the SplitSMI runner.runner Scala script firs
 echo "That script takes a tab-delimited file with SMILES\tchemical names"
 echo "And here we go!"
 echo $PATH
-python parse_smi.py
+python3 parse_smi.py
 obabel *.smi -opdb --gen3d -h -m
 for i in *.pdb; do
 	/Library/MGLTools/1.5.6/bin/pythonsh ~/Documents/MGLToolsPckgs/AutoDockTools/Utilities24/prepare_ligand4.py -l "$i" -A 'hydrogens' -B 'amide' -F
